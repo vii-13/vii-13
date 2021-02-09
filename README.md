@@ -1,5 +1,14 @@
-### Hi there 👋
+### HOLA 👋 MI NOMBRE ES >>> ESTERLYN DIAZ SANTANA 
 
+🌱  Actualmente estoy aprendiendo PHP, Node, React
+
+👨‍💻 Todos mis proyectos están disponibles en https://github.com/vii-13/Repositorio_CEMAS.git
+
+💬 Pregúntame sobre Javascript, HTML, CSS
+
+📫 Cómo contactarme diazesterlin62@gmail.com
+
+⚡ Dato curioso, creo que soy divertido
 <!--
 **vii-13/vii-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
